@@ -16,5 +16,5 @@ How the scripts work ?
 13) Merge and add Activity and Subject labels																																										
 14) Create tidy data set with means
 
-More information about the data set and project details is available in the CodeBook: https://github.com/elieceratrillos/Getting-and-cleaning-data/blob/master/CodeBook.md
+More information about the data set and project details is available in the CodeBook: https://github.com/elieceratrillos/Getting-and-cleaning-data/blob/master/CodeBook.md                                          
 The R script is available here: https://github.com/elieceratrillos/Getting-and-cleaning-data/blob/master/run_analysis.R
