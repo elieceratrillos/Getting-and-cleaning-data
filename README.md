@@ -15,3 +15,5 @@ How the scripts work ?
 12) Use appropiate labels																																																				
 13) Merge and add Activity and Subject labels																																										
 14) Create tidy data set with means
+
+More information about the data set and project details is available here https://github.com/elieceratrillos/Getting-and-cleaning-data/blob/master/CodeBook.md
